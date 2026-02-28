@@ -34,3 +34,17 @@ code {
 .member-card:hover {
   transform: translateY(-5px);
 }
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background: linear-gradient(to bottom, #f0f4f8, #d9e2ec);
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  padding: 1em;
+  color: #2c3e50;
+}
