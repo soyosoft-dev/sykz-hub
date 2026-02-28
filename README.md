@@ -13,23 +13,33 @@
     </nav>
   </header>
 
-  <section class="members">
-    <div class="member-card">
-      <h2>ЯØusØku</h2>
-      <p>創設者。script.js勉強中です。</p>
-      <img src="https://cdn.discordapp.com/avatars/1469268732328280230/675c73ef9e27d896c09cad000e137e6d.png?size=1024" alt="Rousokuのアイコン">
-    </div>
+<div class="members">
+  <div class="member-card">
+    <h2>ЯØusØku</h2>
+    <p>創設者。script.js勉強中です。</p>
+    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-rousoku/">
+      <img src="https://cdn.discordapp.com/avatars/1469268732328280230/675c73ef9e27d896c09cad000e137e6d.png?size=1024" alt="Rousokuのアイコン" class="profile-icon">
+    </a>
+  </div>
 
-<div class="member-card">
-      <h2>ねこあじ</h2>
-      <p>一番最初にモデレーター。人生初のモデレーター頑張ります。</p>
-      <img src="https://cdn.discordapp.com/avatars/1154650067962171450/bf4519a314fd5dc325f88ff0c161c553.png?size=1024" alt="ねこあじのアイコン">    </div>
+  <div class="member-card">
+    <h2>ねこあじ</h2>
+    <p>一番最初にモデレーター。人生初のモデレーター頑張ります。</p>
+    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-nekoaji">
+      <img src="https://cdn.discordapp.com/avatars/1154650067962171450/bf4519a314fd5dc325f88ff0c161c553.png?size=1024" alt="ねこあじのアイコン" class="profile-icon">
+    </a>
+  </div>
+</div>
 
-<div class="member-card">
-      <h2>誰か</h2>
-      <p>説明文。</p>
-      <img src="images/kuro.png" alt="誰かのアイコン">    </div>
-  </section>
+
+  <div class="member-card">
+    <h2>ればねこ</h2>
+    <p>ЯØusØkuの友達。一日も早く業務を覚え、チームの力になれるよう精一杯努めます。ご指導のほどよろしくお願いいたします!</p>
+    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-rebaneko">
+      <img src="https://cdn.discordapp.com/avatars/1444979053349175470/d35ccdc377d2dad29e540eb167793bc3.png?size=1024" alt="ればねこのアイコン" class="profile-icon">
+    </a>
+  </div>
+</div>
 
   <footer>
     <p>&copy; 2026 Soyokaze company</p>
