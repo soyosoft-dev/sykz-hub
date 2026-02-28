@@ -19,3 +19,18 @@ code {
   display: block;
   white-space: pre;
 }
+
+.member-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+}
