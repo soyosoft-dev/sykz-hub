@@ -1,0 +1,48 @@
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  background-color: #f5f9fc;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #cceeff;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: #0077aa;
+  text-decoration: none;
+  margin: 0 1em;
+}
+
+.members {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 2em;
+}
+
+.member-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ccc;
+  margin: 1em;
+  padding: 1em;
+  width: 250px;
+  text-align: center;
+}
+
+.member-card img {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.member-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
