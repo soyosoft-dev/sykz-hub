@@ -17,7 +17,7 @@
   <div class="member-card">
     <h2>ЯØusØku</h2>
     <p>創設者。script.js勉強中です。</p>
-    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-rousoku/">
+    <a href="https://soyosoft-dev.github.io/team.member.rousoku/">
       <img src="https://cdn.discordapp.com/avatars/1469268732328280230/675c73ef9e27d896c09cad000e137e6d.png?size=1024" alt="Rousokuのアイコン" class="profile-icon">
     </a>
   </div>
@@ -25,7 +25,7 @@
   <div class="member-card">
     <h2>ねこあじ</h2>
     <p>一番最初にモデレーター。人生初のモデレーター頑張ります。</p>
-    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-nekoaji">
+    <a href="https://soyosoft-dev.github.io/hub-member-nekoaji">
       <img src="https://cdn.discordapp.com/avatars/1154650067962171450/bf4519a314fd5dc325f88ff0c161c553.png?size=1024" alt="ねこあじのアイコン" class="profile-icon">
     </a>
   </div>
