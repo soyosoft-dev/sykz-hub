@@ -9,7 +9,7 @@
   <header>
     <h1>そよ風カンパニー メンバー紹介</h1>
     <nav>
-      <a href="../sykz-hub/index.html">ホームへ戻る</a>
+      <a href="https://soyosoft-dev.github.io/hub/">ホームへ戻る</a>
     </nav>
   </header>
 
@@ -25,7 +25,7 @@
   <div class="member-card">
     <h2>ねこあじ</h2>
     <p>一番最初にモデレーター。人生初のモデレーター頑張ります。</p>
-    <a href="https://soyosoft-dev.github.io/hub-member-nekoaji">
+    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-nekoaji">
       <img src="https://cdn.discordapp.com/avatars/1154650067962171450/bf4519a314fd5dc325f88ff0c161c553.png?size=1024" alt="ねこあじのアイコン" class="profile-icon">
     </a>
   </div>
