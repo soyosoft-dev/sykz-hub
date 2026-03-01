@@ -25,7 +25,7 @@
   <div class="member-card">
     <h2>ねこあじ</h2>
     <p>一番最初にモデレーター。人生初のモデレーター頑張ります。</p>
-    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-nekoaji">
+    <a href="https://soyosoft-dev.github.io/team.member.nekoaji">
       <img src="https://cdn.discordapp.com/avatars/1154650067962171450/bf4519a314fd5dc325f88ff0c161c553.png?size=1024" alt="ねこあじのアイコン" class="profile-icon">
     </a>
   </div>
@@ -35,7 +35,7 @@
   <div class="member-card">
     <h2>ればねこ</h2>
     <p>ЯØusØkuの友達。一日も早く業務を覚え、チームの力になれるよう精一杯努めます。ご指導のほどよろしくお願いいたします!</p>
-    <a href="https://soyosoft-dev.github.io/soyosoft-dev-sykz-hub-member-rebaneko">
+    <a href="https://soyosoft-dev.github.io/team.member.rebaneko>
       <img src="https://cdn.discordapp.com/avatars/1444979053349175470/d35ccdc377d2dad29e540eb167793bc3.png?size=1024" alt="ればねこのアイコン" class="profile-icon">
     </a>
   </div>
