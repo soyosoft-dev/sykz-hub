@@ -24,7 +24,7 @@
 
   <div class="member-card">
     <h2>ねこあじ</h2>
-    <p>一番最初にモデレーター。人生初のモデレーター頑張ります。</p>
+    <p>一番最初にモデレーターになった。人生初のモデレーター頑張ります。</p>
     <a href="https://soyosoft-dev.github.io/team.member.nekoaji">
       <img src="https://cdn.discordapp.com/avatars/1154650067962171450/bf4519a314fd5dc325f88ff0c161c553.png?size=1024" alt="ねこあじのアイコン" class="profile-icon">
     </a>
