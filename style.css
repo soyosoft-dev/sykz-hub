@@ -1,8 +1,7 @@
 .member-card img {
   width: 125px;
   height: 125px;
-  object-fit: cover;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 pre {
@@ -22,10 +21,10 @@ code {
 
 .member-card {
   background-color: #ffffff;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  padding: 20px;
-  margin: 20px auto;
+  border-radius: 30px;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+  padding: 30px;
+  margin: 30px auto;
   max-width: 1000px;
   text-align: center;
   transition: transform 0.3s ease;

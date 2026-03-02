@@ -40,7 +40,18 @@
       </p>
     </section>
   </main>
+  <section>
+       <div class="member-card">
+      <h3>✨ 参加方法</h3>
+      <p>
+        <B>https://discord.gg/ZrPAdAM4a3<B> から参加してください<br>
+        短縮URL <B>https://x.gd/rQSmGz<B><br>
+        参加した後は<B>⭐｜サーバー｜serverから認証してね！<B>
+      </p>
+    </section>
 
+<a href="https://discord.gg/ZrPAdAM4a3">Discordに参加</a>
+ 
   <footer>
     <p>&copy; 2026 Soyokaze company</p>
   </footer>
